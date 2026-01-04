@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lightmeter/static/css/main.f855e6bc.css",
+    "main.js": "/lightmeter/static/js/main.b0ed81c1.js",
+    "static/js/453.2dbc2fca.chunk.js": "/lightmeter/static/js/453.2dbc2fca.chunk.js",
+    "index.html": "/lightmeter/index.html",
+    "main.f855e6bc.css.map": "/lightmeter/static/css/main.f855e6bc.css.map",
+    "main.b0ed81c1.js.map": "/lightmeter/static/js/main.b0ed81c1.js.map",
+    "453.2dbc2fca.chunk.js.map": "/lightmeter/static/js/453.2dbc2fca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b0ed81c1.js"
+  ]
+}
